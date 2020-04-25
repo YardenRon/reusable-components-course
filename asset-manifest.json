@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.675efae5.chunk.css",
-    "main.js": "/static/js/main.275e422e.chunk.js",
-    "main.js.map": "/static/js/main.275e422e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fa78011c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fa78011c.js.map",
-    "static/css/2.52738377.chunk.css": "/static/css/2.52738377.chunk.css",
-    "static/js/2.5910ad73.chunk.js": "/static/js/2.5910ad73.chunk.js",
-    "static/js/2.5910ad73.chunk.js.map": "/static/js/2.5910ad73.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.bb87a7a956e5282d63e626797aa7e68e.js": "/precache-manifest.bb87a7a956e5282d63e626797aa7e68e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.52738377.chunk.css.map": "/static/css/2.52738377.chunk.css.map",
-    "static/css/main.675efae5.chunk.css.map": "/static/css/main.675efae5.chunk.css.map",
-    "static/js/2.5910ad73.chunk.js.LICENSE.txt": "/static/js/2.5910ad73.chunk.js.LICENSE.txt"
+    "main.css": "/reusable-components-course/static/css/main.675efae5.chunk.css",
+    "main.js": "/reusable-components-course/static/js/main.d91bbd55.chunk.js",
+    "main.js.map": "/reusable-components-course/static/js/main.d91bbd55.chunk.js.map",
+    "runtime-main.js": "/reusable-components-course/static/js/runtime-main.66f4dffe.js",
+    "runtime-main.js.map": "/reusable-components-course/static/js/runtime-main.66f4dffe.js.map",
+    "static/css/2.52738377.chunk.css": "/reusable-components-course/static/css/2.52738377.chunk.css",
+    "static/js/2.0353ec07.chunk.js": "/reusable-components-course/static/js/2.0353ec07.chunk.js",
+    "static/js/2.0353ec07.chunk.js.map": "/reusable-components-course/static/js/2.0353ec07.chunk.js.map",
+    "index.html": "/reusable-components-course/index.html",
+    "precache-manifest.0323c1ffb7d5f47d691538806fbbf8a7.js": "/reusable-components-course/precache-manifest.0323c1ffb7d5f47d691538806fbbf8a7.js",
+    "service-worker.js": "/reusable-components-course/service-worker.js",
+    "static/css/2.52738377.chunk.css.map": "/reusable-components-course/static/css/2.52738377.chunk.css.map",
+    "static/css/main.675efae5.chunk.css.map": "/reusable-components-course/static/css/main.675efae5.chunk.css.map",
+    "static/js/2.0353ec07.chunk.js.LICENSE.txt": "/reusable-components-course/static/js/2.0353ec07.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa78011c.js",
+    "static/js/runtime-main.66f4dffe.js",
     "static/css/2.52738377.chunk.css",
-    "static/js/2.5910ad73.chunk.js",
+    "static/js/2.0353ec07.chunk.js",
     "static/css/main.675efae5.chunk.css",
-    "static/js/main.275e422e.chunk.js"
+    "static/js/main.d91bbd55.chunk.js"
   ]
 }
